@@ -1,6 +1,4 @@
-GitHub ke liye ek achha README.md file hona bahut zaroori hai, kyunki recruiters sabse pehle wahi dekhte hain. Isse tumhare project ka "First Impression" bahut solid padega.
 
-Niche diye gaye text ko copy karke tum apne GitHub repository ki README.md file mein paste kar do:
 
 🚀 PHPTRAVELS - Manual Testing & UAT Portfolio
 Tester: Shivam Yadav
